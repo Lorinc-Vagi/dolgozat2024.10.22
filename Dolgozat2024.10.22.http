@@ -1,0 +1,6 @@
+@Dolgozat2024._10._22_HostAddress = http://localhost:5031
+
+GET {{Dolgozat2024._10._22_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
